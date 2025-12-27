@@ -1,4 +1,4 @@
-# Hi there, I'm Kaan Kara! 👋
+# Hi, I'm Kaan Kara! 👋
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4-green)
