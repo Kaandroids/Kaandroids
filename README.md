@@ -32,21 +32,6 @@ A production-grade task management ecosystem built with a focus on cloud-native 
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaandroids&show_icons=true&theme=tokyonight&count_private=true" alt="Kaan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaandroids&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🗺️ What's Next? (Roadmap)
-- [ ] Mastering **Angular Signals** for reactive state management.
-- [ ] Implementing centralized **Global Error Handling** and unit testing.
-- [ ] Exploring **Azure Kubernetes Service (AKS)** for advanced orchestration.
-
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/kaan-kara-0a720439b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
