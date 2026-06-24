@@ -1,20 +1,12 @@
-<h1 align="center">Kaan Kara</h1>
+# Kaan Kara
 
-<p align="center">
-  <strong>Full-Stack Software Engineer</strong> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Angular
-</p>
+**Full-Stack Software Engineer** &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Angular
 
-<p align="center">
-  I design and ship production-grade web applications end to end — from the data model and<br/>
-  execution engine on the backend to the reactive UI and the cloud deployment I own myself.<br/>
-  I care about clean architecture, multi-tenant isolation, observability, and infrastructure-as-code.
-</p>
+I design and ship production-grade web applications end to end — from the data model and execution engine on the backend to the reactive UI and the cloud deployment I own myself. I care about clean architecture, multi-tenant isolation, observability, and infrastructure-as-code.
 
-<p align="center">
-  🚀 Building <a href="https://postwerk.io"><strong>Postwerk</strong></a> — an AI-driven email automation platform &nbsp;·&nbsp; 🌍 Germany
-</p>
+🚀 Building [**Postwerk**](https://postwerk.io) — an AI-driven email automation platform &nbsp;·&nbsp; 🌍 Germany
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/kaan-kara-0a720439b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kaan403@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://postwerk.io"><img src="https://img.shields.io/badge/Website-postwerk.io-1F88C0?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
