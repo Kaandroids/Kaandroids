@@ -7,6 +7,7 @@ I build web and mobile applications end to end: the data model, the backend logi
 🌍 Hannover, Germany &nbsp;·&nbsp; Open to Java / Spring Boot roles across Germany
 
 <p>
+  <a href="https://kaandroids.dev"><img src="https://img.shields.io/badge/Website-kaandroids.dev-1F2937?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/kaan-kara-0a720439b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kaan403@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -147,6 +148,7 @@ AI accelerates the work. It doesn't replace the thinking.
 ## 📬 Connect
 
 <p>
+  <a href="https://kaandroids.dev"><img src="https://img.shields.io/badge/Website-kaandroids.dev-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/kaan-kara-0a720439b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kaan403@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
